@@ -150,7 +150,3 @@ RAlt up::
     }
     Return
 
-
-#Include my-launcher.ahk
-#Include my-keybind.ahk
-
